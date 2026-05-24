@@ -1,0 +1,114 @@
+.job-item-details-container {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.jobitem-success-container {
+  padding: 10px;
+}
+.job-card-company-details {
+  display: flex;
+  align-items: center;
+}
+.company-logo {
+  height: 50px;
+  width: 50px;
+}
+.icon-card {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.similar-description-and-vist-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/*jobdetails-details-container*/
+.job-card-company-details {
+  display: flex;
+  align-items: center;
+  border: 1px solid white;
+  padding: 10px;
+}
+
+.jobItemDetails-job-title {
+  margin: 0px;
+}
+
+/*description*/
+.jobItemDetails-description-container {
+  margin: 10px 0px;
+  border: 1px solid white;
+  padding: 10px;
+}
+.description-and-vist-container {
+  margin: 0px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.description-heading {
+  margin: 0px;
+}
+.description-text {
+  margin: 0px;
+}
+/*skills*/
+.jobItemDetails-skills-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid white;
+  padding: 10px;
+}
+.jobItemDetails-skills-heading {
+  margin: 0px;
+  margin-bottom: 10px;
+}
+.jobItemDetails-skills-unorder-container {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.skill-item {
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.skill-image {
+  height: 70px;
+  width: 70px;
+}
+
+/*Life at company*/
+.jobItemDetails-lifeAtCompany-container {
+  margin: 10px 0px;
+  border: 1px solid white;
+  padding: 10px;
+}
+
+/*similar job*/
+.similar-job-details-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid white;
+}
+.similar-jobs-main-heading {
+  margin: 0px;
+}
+.similar-job-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  padding: 0px;
+}

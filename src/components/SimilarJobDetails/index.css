@@ -1,0 +1,27 @@
+* {
+  border: 1px solid blue;
+}
+.similar-job-card {
+  border: 1px solid white;
+  padding: 10px;
+}
+.similar-job-section1 {
+  display: flex;
+  align-items: center;
+}
+.similar-job-logo-image {
+  height: 70px;
+  width: 70px;
+  margin-right: 10px;
+}
+
+.similar-job-location-and-employment_type-container {
+  display: flex;
+}
+
+.similar-job-title-and-rating-container h1 {
+  margin: 0px;
+}
+.similar-job-title-and-rating-container p {
+  margin: 0px;
+}

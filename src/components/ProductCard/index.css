@@ -1,0 +1,31 @@
+.job-list-container {
+  margin: 10px auto;
+  width: 90vw;
+  border: 2px solid orange;
+  padding: 10px;
+}
+.job-card-container {
+  color: white;
+  text-decoration: none;
+  width: 90vw;
+}
+.job-card-section1 {
+  display: flex;
+  flex-direction: column;
+}
+.job-card-company-details {
+  display: flex;
+}
+.job-location-type-package-container {
+  display: flex;
+  justify-content: space-between;
+}
+.job-location-and-employmentType-details-card {
+  display: flex;
+}
+.company-logo{
+  margin-right:10px;
+}
+.jobcard-heading {
+  font-size: 18px;
+}

@@ -1,0 +1,24 @@
+.home-container {
+  background-image: url(https://assets.ccbp.in/frontend/react-js/home-sm-bg.png);
+  background-size: cover;
+  min-height: 83vh;
+  padding: 10px;
+}
+.home-heading {
+  color: white;
+}
+.home-para {
+  color: white;
+  line-height: 1.5;
+}
+.home-button {
+  background-color: #6366f1;
+  color: white;
+  padding: 10px;
+}
+
+@media (min-width: 1200px) {
+  .home-container {
+    background-image: url(https://assets.ccbp.in/frontend/react-js/home-lg-bg.png);
+  }
+}
