@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/AllJobsWeb/static/css/main.dcb8f8c5.chunk.css",
-    "main.js": "/AllJobsWeb/static/js/main.e80bd389.chunk.js",
-    "main.js.map": "/AllJobsWeb/static/js/main.e80bd389.chunk.js.map",
+    "main.css": "/AllJobsWeb/static/css/main.658967ad.chunk.css",
+    "main.js": "/AllJobsWeb/static/js/main.063375bc.chunk.js",
+    "main.js.map": "/AllJobsWeb/static/js/main.063375bc.chunk.js.map",
     "runtime-main.js": "/AllJobsWeb/static/js/runtime-main.e99395f6.js",
     "runtime-main.js.map": "/AllJobsWeb/static/js/runtime-main.e99395f6.js.map",
-    "static/js/2.8e4038c1.chunk.js": "/AllJobsWeb/static/js/2.8e4038c1.chunk.js",
-    "static/js/2.8e4038c1.chunk.js.map": "/AllJobsWeb/static/js/2.8e4038c1.chunk.js.map",
+    "static/js/2.01410b40.chunk.js": "/AllJobsWeb/static/js/2.01410b40.chunk.js",
+    "static/js/2.01410b40.chunk.js.map": "/AllJobsWeb/static/js/2.01410b40.chunk.js.map",
     "index.html": "/AllJobsWeb/index.html",
-    "static/css/main.dcb8f8c5.chunk.css.map": "/AllJobsWeb/static/css/main.dcb8f8c5.chunk.css.map",
-    "static/js/2.8e4038c1.chunk.js.LICENSE.txt": "/AllJobsWeb/static/js/2.8e4038c1.chunk.js.LICENSE.txt"
+    "static/css/main.658967ad.chunk.css.map": "/AllJobsWeb/static/css/main.658967ad.chunk.css.map",
+    "static/js/2.01410b40.chunk.js.LICENSE.txt": "/AllJobsWeb/static/js/2.01410b40.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e99395f6.js",
-    "static/js/2.8e4038c1.chunk.js",
-    "static/css/main.dcb8f8c5.chunk.css",
-    "static/js/main.e80bd389.chunk.js"
+    "static/js/2.01410b40.chunk.js",
+    "static/css/main.658967ad.chunk.css",
+    "static/js/main.063375bc.chunk.js"
   ]
 }
